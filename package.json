@@ -1,10 +1,10 @@
 {
-  "name": "cli-number-guessing-game",
+  "name": "nazakat cli-number-guessing-game",
   "type": "module",
   "version": "2.0.1",
   "description": "",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
